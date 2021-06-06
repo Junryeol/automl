@@ -1,0 +1,7 @@
+ipywidgets
+pandas
+pandas_profiling
+phik
+altair
+featuretools
+evalml
