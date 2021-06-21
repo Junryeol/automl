@@ -10,7 +10,7 @@ package_name = package_name.replace('/__init__.py', '')
 
 PACKAGE_NAME = package_name  # The name of the package
 VERSION = '0.0.1'
-PYTHON_VERSION = '~=3.6'  # Any python 3 version since python3.6
+PYTHON_VERSION = '~=3.7'  # Any python 3 version since python3.7
 SHORT_DESCRIPTION = ''
 DESCRIPTION = open('README.md').read()
 AUTHOR = ''
