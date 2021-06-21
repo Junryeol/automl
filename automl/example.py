@@ -1,5 +1,5 @@
 """Main file of the package"""
-from ..utils.log import init_logger
+from .utils.log import init_logger
 
 logger = init_logger('main.log')
 
