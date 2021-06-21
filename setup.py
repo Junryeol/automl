@@ -21,7 +21,7 @@ DEVELOPMENT_STATUS = 'Planning'
 ENVIRONMENT = []
 FRAMEWORK = []
 AUDIENCE = ['Developers']
-PROGRAMMING_LANGUAGE = ['Pythonv3.6', 'Pythonv3.7', 'Pythonv3.8']
+PROGRAMMING_LANGUAGE = ['Pythonv3.7', 'Pythonv3.8']
 KEYWORDS = []
 
 # To add more classifier, like topic go on <https://pypi.org/pypi?action=list_classifiers>
