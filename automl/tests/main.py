@@ -1,8 +1,7 @@
 """Main file of the package"""
-from .log import init_logger
+from ..utils.log import init_logger
 
 logger = init_logger('main.log')
-
 
 # Your code here
 def add(a, b):

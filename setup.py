@@ -15,14 +15,14 @@ SHORT_DESCRIPTION = ''
 DESCRIPTION = open('README.md').read()
 AUTHOR = ''
 MAIL = ''
-PROJECT_URL = 'https://github.com/$url_name/$project@latest'
-LICENCE = 'GPLv3+'
+PROJECT_URL = 'https://github.com/Junryeol/automl@master'
+LICENCE = 'MIT'
 DEVELOPMENT_STATUS = 'Planning'
 ENVIRONMENT = []
 FRAMEWORK = []
 AUDIENCE = ['Developers']
 PROGRAMMING_LANGUAGE = ['Pythonv3.6', 'Pythonv3.7', 'Pythonv3.8']
-KEYWORDS = ['test', 'test2']
+KEYWORDS = []
 
 # To add more classifier, like topic go on <https://pypi.org/pypi?action=list_classifiers>
 classifiers = []
@@ -31,7 +31,6 @@ LICENCE_CLASSIFIER = {
     'GPLv3+': 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
     'Apache': 'License :: OSI Approved :: Apache Software License',
     'MIT': 'License :: OSI Approved :: MIT License',
-
     'GPL': 'License :: OSI Approved :: GNU General Public License (GPL)',
     'GPLv2': 'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
     'GPLv2+': 'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)',
